@@ -2,6 +2,7 @@
     "name": "Progressive Web App Budget Tracker",
     "short_name": "Budget Tracker",
     "theme_color": "#2BFC8D",
+    "background_color": "#0C0409",
     "start_url": "/",
     "display": "standalone"
 }
