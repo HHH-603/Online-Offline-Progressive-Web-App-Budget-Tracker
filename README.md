@@ -19,7 +19,7 @@ For my PWA, I installed the the "compression", "express", "lite-server", "mongoo
 
 #### Usage
 When a user arrives at my PWA, they are presented with fields where they can enter the name of a transaction and the amount of that transaction. Additionally, they are presented with buttons to add funds or subtract funds. Once the user has entered their transaction information and selected one of these two buttons, then their transaction data is reflected in a graph below along with an itemized record.
-![Image 1](./public/screenshots/image-1.png)
+![Image 1](public/screenshots/image-1.png)
 
 If the user loses their internet connection, their data is stored in the browser's cache storage. Once they regain internet connection, their data is stored in both IndexedDB.
 
