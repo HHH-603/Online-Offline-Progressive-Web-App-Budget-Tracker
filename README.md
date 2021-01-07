@@ -19,10 +19,10 @@ For my PWA, I installed the the "compression", "express", "lite-server", "mongoo
 
 #### Usage
 When a user arrives at my PWA, they are presented with fields where they can enter the name of a transaction and the amount of that transaction. Additionally, they are presented with buttons to add funds or subtract funds. Once the user has entered their transaction information and selected one of these two buttons, then their transaction data is reflected in a graph below along with an itemized record.
-![Image1](./public/screenshots/image-1.png)
+![Image1](./public/screenshots/image-1.PNG)
 
 If the user loses their internet connection, their data is still collected. Once they regain internet connection, their data is then stored in MongoDB Atlas.
-![Image2](./public/screenshots/image-2.png)
+![Image2](./public/screenshots/image-2.PNG)
 
 #### License
 GNU GPLv3
